@@ -1,0 +1,10 @@
+Bill of Materials 
+
+All parts were purchased on Amazon 
+
+Teensy, 4.0 Microcontroller (PRJC)
+DIANN, 2.8" TFT SPI 240 x 320 (ILI9341 driver)
+HiLetgo, 1.28" TFT LCD display (GC9A01 driver) 
+Adafruit,  BMP390 pressure sensor 
+470 uF electrolytic cap 
+50 K Ohm 10 turn trimmer potentiometer ,Electronics Salon 
