@@ -13,3 +13,7 @@ display takes the current pressure reading and populates the whole display with 
 Pressure data is in inches of mercury (In/Hg). 
 The graphing display shows relative pressure changes based on the average pressure with a 10 point average. This is so you can see small pressure changes.
 The round display is absolute pressure so it extends from 28 In/Hg up to 32 In/Hg. 
+
+I used Arduino's IDE to write the code. In order to run the code on a teensy 4.0 microcontroller you'll  also need to install the Teensy URL in the Arduino board manager (preferences).Probably the easiest way for you to do this is go to https://www.pjrc.com/teensy/tutorial.html and follow the instructions to load the Teensyduino into the Arduino boards manager. This is a critical step to use the Teensy. Essentially you'll be opening the Arduino board manager folder, searching for Teensy  by Paul Stoffregen and clicking install. The tutorial at the PJRC site will help you to do this. Then don't forget to go to Arduino IDE and select the Teensy 4.0 under the tools tab.  There are also some youtube videos that show how to do this but it's not all that difficult. 
+
+
